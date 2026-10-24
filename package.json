@@ -1,0 +1,24 @@
+{
+  "name": "playwright-project",
+  "version": "1.0.0",
+  "description": "Ucsc project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunyapulenthiran/Playwright-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/arunyapulenthiran/Playwright-project/issues"
+  },
+  "homepage": "https://github.com/arunyapulenthiran/Playwright-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  }
+}
